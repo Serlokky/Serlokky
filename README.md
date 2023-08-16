@@ -1,6 +1,5 @@
 - ✨ Hi, I’m @Serlokky
-- I’m interested in Tech, Security and DevOps
-- I’m currently learning CI/CD on github
+- I’m interested in Tech, Security, Azure, M365
 - 📫 How to reach me: ville@huhtaniska.fi
 
 
